@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Looker Studio on Adrian Maulana Muhammad</title>
+    <link>http://adrian-maulana.com/tags/looker-studio/</link>
+    <description>Recent content in Looker Studio on Adrian Maulana Muhammad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://adrian-maulana.com/tags/looker-studio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dashboard Traffic Alert in West Java</title>
+      <link>http://adrian-maulana.com/visualizations/traffic-west-java/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://adrian-maulana.com/visualizations/traffic-west-java/</guid>
+      <description>This analytics dashboard shows the proportion of traffic alerts in the city and street of West Java. The local government can use the dashboard to monitor and get insight into their area&amp;#39;s traffic condition.</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Indonesia Dashboard</title>
+      <link>http://adrian-maulana.com/visualizations/covid-indonesia/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://adrian-maulana.com/visualizations/covid-indonesia/</guid>
+      <description>This dashboard displays the development of COVID-19 cases across all provinces in Indonesia.</description>
+    </item>
+    
+  </channel>
+</rss>

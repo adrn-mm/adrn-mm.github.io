@@ -8,12 +8,30 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://adrian-maulana.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Dashboard Traffic Alert in West Java</title>
+      <link>http://adrian-maulana.com/visualizations/traffic-west-java/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://adrian-maulana.com/visualizations/traffic-west-java/</guid>
+      <description>This analytics dashboard shows the proportion of traffic alerts in the city and street of West Java. The local government can use the dashboard to monitor and get insight into their area&amp;#39;s traffic condition.</description>
+    </item>
+    
+    <item>
       <title>Data Engineering 101</title>
       <link>http://adrian-maulana.com/blogs/data-engineering-101/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>http://adrian-maulana.com/blogs/data-engineering-101/</guid>
       <description>An introduction and key concepts to data engineering. It&amp;#39;s a concise overview for anyone seeking a basic understanding of data engineering.</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Indonesia Dashboard</title>
+      <link>http://adrian-maulana.com/visualizations/covid-indonesia/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://adrian-maulana.com/visualizations/covid-indonesia/</guid>
+      <description>This dashboard displays the development of COVID-19 cases across all provinces in Indonesia.</description>
     </item>
     
     <item>
