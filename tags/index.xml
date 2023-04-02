@@ -6,22 +6,67 @@
     <description>Recent content in Tags on Adrian Maulana Muhammad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://adrian-maulana.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://adrian-maulana.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tags</title>
-      <link>http://adrian-maulana.com/tags/tags/</link>
-      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <title>Data Engineering</title>
+      <link>http://adrian-maulana.com/tags/data-engineering/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://adrian-maulana.com/tags/tags/</guid>
+      <guid>http://adrian-maulana.com/tags/data-engineering/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Template</title>
-      <link>http://adrian-maulana.com/tags/template/</link>
-      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <title>DBMS</title>
+      <link>http://adrian-maulana.com/tags/dbms/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://adrian-maulana.com/tags/template/</guid>
+      <guid>http://adrian-maulana.com/tags/dbms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Math</title>
+      <link>http://adrian-maulana.com/tags/math/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://adrian-maulana.com/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NoSQL</title>
+      <link>http://adrian-maulana.com/tags/nosql/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://adrian-maulana.com/tags/nosql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem Solving</title>
+      <link>http://adrian-maulana.com/tags/problem-solving/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://adrian-maulana.com/tags/problem-solving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>http://adrian-maulana.com/tags/sql/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://adrian-maulana.com/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Modelling</title>
+      <link>http://adrian-maulana.com/tags/data-modelling/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://adrian-maulana.com/tags/data-modelling/</guid>
       <description></description>
     </item>
     

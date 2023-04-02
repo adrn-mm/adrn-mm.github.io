@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Math on Adrian Maulana Muhammad</title>
+    <link>http://adrian-maulana.com/tags/math/</link>
+    <description>Recent content in Math on Adrian Maulana Muhammad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://adrian-maulana.com/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathematical Thinking</title>
+      <link>http://adrian-maulana.com/blogs/mathematical-thinking/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://adrian-maulana.com/blogs/mathematical-thinking/</guid>
+      <description>Problem solving is an essential skill that we need to master in various aspects of our lives. One approach to problem solving that has been proven to be effective is using mathematical thinking.</description>
+    </item>
+    
+  </channel>
+</rss>
